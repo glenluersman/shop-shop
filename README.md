@@ -51,8 +51,8 @@
 
 ## <img id="screenshots" src="https://github.com/teamjuli0/readme-badges/blob/main/themes/clean-dark/menu-categories/screenshots.png?raw=true" style="height: 40px">
 
-<img style="margin: 0 0 15px 0" src="public/images/.PNG" ></a>
+<img style="margin: 0 0 15px 0" src="client/public/images/shop1.PNG" ></a>
 
-<img style="margin: 0 0 15px 0" src="public/images/.PNG" ></a>
+<img style="margin: 0 0 15px 0" src="client/public/images/shop2.PNG" ></a>
 
-<img style="margin: 0 0 15px 0" src="public/images/.PNG" ></a>
+<img style="margin: 0 0 15px 0" src="client/public/images/shop3.PNG" ></a>
